@@ -1,0 +1,22 @@
+{
+  "name": "catify",
+  "version": "0.0.1",
+  "description": "Middleware that redirects users at random to a cat gif.",
+  "main": "lib/catify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shawnhilgart/catify.git"
+  },
+  "author": "= <shawn@wcst.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/shawnhilgart/catify/issues"
+  },
+  "homepage": "https://github.com/shawnhilgart/catify",
+  "dependencies": {
+    "chance": "~0.5.5"
+  }
+}
