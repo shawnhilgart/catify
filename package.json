@@ -1,6 +1,6 @@
 {
   "name": "connect-catify",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Middleware that redirects users at random to a cat gif.",
   "main": "lib/catify.js",
   "scripts": {

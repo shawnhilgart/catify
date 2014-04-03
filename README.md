@@ -7,7 +7,7 @@ Middleware that redirects users at random to a cat gif via thecatapi.com
 
 ```javascript
 
-var catify = require('catify');
+var catify = require('connect-catify');
 var express = require('express');
 var app = new express();
 
