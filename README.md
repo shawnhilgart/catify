@@ -1,7 +1,7 @@
 catify
 ======
 
-Middleware that redirects users at random to a cat gif.
+Middleware that redirects users at random to a cat gif via thecatapi.com
 
 ## Usage
 
